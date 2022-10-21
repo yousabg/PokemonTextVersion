@@ -1,0 +1,17 @@
+None
+Attack
+Attack
+Attack
+Defense
+None
+Defense
+Defense
+Speed
+Speed
+None
+Speed
+Special
+Special
+Special
+None
+None
