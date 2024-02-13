@@ -1,6 +1,9 @@
 <h1 align="center">🎮 PokemonTextVersion</h1>
 
-<p align="center">A journey back to the basics of Pokémon, recreated in Java as a text adventure. This project reflects my early exploration into programming during my college days.</p>
+![Java](https://img.shields.io/badge/language-Java-orange.svg)
+![Status](https://img.shields.io/badge/status-In%20Progress-yellow.svg)
+
+<p align="center">An ambitious attempt to recreate Pokémon as a text-based adventure in Java. Dive into the nostalgic world of Pokémon battles, exploration, and collection, all through the charm of text.</p>
 
 <h2>🔍 Overview</h2>
 <ul>
