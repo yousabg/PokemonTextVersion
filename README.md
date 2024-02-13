@@ -12,15 +12,10 @@
   <li>Data Files: Include Pokémon names, base stats, item names, etc.</li>
 </ul>
 
-<h2>🚀 Setup</h2>
-<p>Follow these steps to get started:</p>
+### Current Progress
 
-<pre><code>git clone https://github.com/yourusername/PokemonTextVersion.git
-cd PokemonTextVersion
-# Make sure all files are in a 'src' folder
-javac src/theMain.java
-java src/theMain
-</code></pre>
+- `Battle.java`: Under construction. The core mechanics of Pokémon battles are being implemented here.
+- `theMain.java`: This is the heart of the game, orchestrating the loading of data files, initiating battles, and progressing the storyline. Currently, it extends up to the first battle between the main character and their rival.
 
 <h2>🤝 Contributing</h2>
 <p>Contributions are welcome! Feel free to fork the project, make your changes, and submit a pull request.</p>
